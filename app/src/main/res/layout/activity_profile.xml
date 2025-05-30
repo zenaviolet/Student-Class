@@ -29,4 +29,7 @@
         android:id="@+id/textViewProfileTopic"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="8dp_
+        android:layout_marginTop="8dp"
+        android:textSize="18sp"
+        android:text="Research Topic: " />
+</LinearLayout>

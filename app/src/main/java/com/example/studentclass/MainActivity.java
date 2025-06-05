@@ -7,7 +7,7 @@ import androidx.appcompat.app.AppCompatActivity;
 public class MainActivity extends AppCompatActivity {
 
     // Define the Student Class
-    public class Student {
+    public static class Student {
         private String name;
         private String studentId;
 
